@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/profile.png
+photo: /assets/img/uploads/ps.png
 name: sondayeon
 display_name: Dayeon
 position: Junior Developer
