@@ -1,15 +1,15 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: Dayeon
+title: Dayeon's IT BLOG
+description: WELCOME
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
-email: youremail@xyz.com
-disqus_username: disqus_username
+  - AWS
+  - Docker
+  - CICD
+  - IT
+  - DEVELOPER
+email: dayeon@sookmyung.ac.kr
+disqus_username: sondayeon
 show_hero: true
 menu:
   - title: Home
@@ -24,12 +24,12 @@ menu:
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
+github_username: It-dayeon
 facebook_username: facebook_username
 twitter_username: twitter_username
 instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+linkedin_username: sondayeon
+medium_username: it-dayeon
 
 
 # Posts Settings
